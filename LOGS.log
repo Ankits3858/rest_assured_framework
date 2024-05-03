@@ -1,0 +1,8 @@
+2018-10-07 15:59:46 ERROR ExcelManager:62 - Sheet with nameSheet4doesn't exist
+2018-10-07 16:00:47 ERROR ExcelManager:62 - Sheet with name Sheet4 doesn't exist
+2018-10-07 16:01:41 ERROR ExcelManager:62 - Sheet with name Sheet4 doesn't exist
+2018-10-07 16:02:09 ERROR ExcelManager:38 - File_'src/main/java/com/qafox/api/test/testdata/test1.xlsx' doesn't exist in resources folder
+2018-10-07 16:02:51 ERROR ExcelManager:62 - Sheet with name Sheet4 doesn't exist
+2018-10-07 16:22:36 ERROR ExcelManager:62 - Sheet with name Sheet4 doesn't exist
+2018-10-07 16:34:53 ERROR ExcelManager:134 - Row number should be great than zero.
+2018-10-07 16:35:16 ERROR ExcelManager:142 - No such row exists in sheet

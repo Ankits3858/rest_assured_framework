@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="C:/Users/maheshkurapati/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml/4.0.0/f3fa9c2bd64eb3ec15378de960a07d077ae5b26d/poi-ooxml-4.0.0.jar" sourcepath="C:/Users/maheshkurapati/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml/4.0.0/3b13e33af978925a2986f4c7902c185ac4176617/poi-ooxml-4.0.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/maheshkurapati/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/4.0.0/7ddb9b983ed682c93a986e8bb596d5935b13086c/poi-4.0.0.jar" sourcepath="C:/Users/maheshkurapati/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi/4.0.0/dd39484826d07395475a5698576f0741f1dccf2f/poi-4.0.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
